@@ -1,0 +1,55 @@
+#logo {
+  display: 'block';
+  width: 690px;
+  height: 200px;
+  border: 1px solid red;
+}
+
+#actions {
+  margin-top: 100px;
+}
+
+#logo #icon {
+  position: absolute;
+  top: 130px;
+  left: 409px;
+  width: 59px;
+  height: 88px;
+  background-image: url('icon.png');
+  background-size: contain;
+  border: 1px solid green;
+}
+
+#logo #ke {
+  position: absolute;
+  top: -10px;
+  left: 140px;
+  width: 128px;
+  height: 88px;
+  background-image: url('ke.png');
+  background-size: contain;
+  border: 1px solid green;
+}
+
+#logo #works {
+  position: absolute;
+  top: 130px;
+  left: 679px;
+  width: 341px;
+  height: 88px;
+  background-image: url('works.png');
+  background-size: contain;
+  border: 1px solid green;
+}
+
+#logo #dash {
+  position: absolute;
+  top: 180px;
+  left: 279px;
+  width: 58px;
+  height: 15px;
+  background-image: url('dash.png');
+  background-size: contain;
+  border: 1px solid green;
+  opacity: 0;
+}
